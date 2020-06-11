@@ -1,7 +1,8 @@
 {
-  "name": "heroku-cra-node",
-  "version": "3.0.0",
-  "description": "How to use create-react-app with a custom Node API on Heroku",
+  "name": "nsrc-boat-reservation",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A simple boat reservation app using iCrew's API",
   "engines": {
     "node": "12.x"
   },
@@ -32,6 +33,5 @@
     "icrew",
     "react"
   ],
-  "license": "MIT",
   "devDependencies": {}
 }

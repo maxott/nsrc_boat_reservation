@@ -1,0 +1,21 @@
+{
+  "name": "nsrc-boat-reservation",
+  "description": "A simple boat reservation app using iCrew's API",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
